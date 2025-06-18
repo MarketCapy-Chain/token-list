@@ -1,18 +1,25 @@
-[
-    {
-    "chainId": 586,
-    "address": "0x0E581b9CdcE746C5efeA632bE7766A9a1f29Ae66",
-    "name": "Wrapped Nexus",
-    "decimals": 18,
-    "symbol": "WNEX",
-    "logoURI": "https://raw.githubusercontent.com/TrigonLayer/token-list/refs/heads/main/src/logos/0x0E581b9CdcE746C5efeA632bE7766A9a1f29Ae66.png"
+{
+  "name": "Uniswap Labs Default",
+  "timestamp": "2025-03-15T16:16:58.677Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
   },
-  {
-    "chainId": 586,
-    "address": "0x26aCBE672A9c29d89313b5c8b72c1B0493b7C386",
-    "name": "NeXwap",
-    "decimals": 18,
-    "symbol": "XWAP",
-    "logoURI": "https://raw.githubusercontent.com/TrigonLayer/token-list/refs/heads/main/src/logos/0x26aCBE672A9c29d89313b5c8b72c1B0493b7C386.png"
-  }
-]
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "nexwap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 586,
+      "address": "0xE44deCB14Cfc3C214E8F4AFF2FaD4cf707F2e6B8",
+      "name": "Wrapped MarketCapy",
+      "decimals": 18,
+      "symbol": "WCAPY",
+      "logoURI": "https://raw.githubusercontent.com/TrigonLayer/token-list/refs/heads/main/src/logos/0x0E581b9CdcE746C5efeA632bE7766A9a1f29Ae66.png"
+    }
+  ]
+}
