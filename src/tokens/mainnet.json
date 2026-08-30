@@ -1,5 +1,5 @@
 {
-  "name": "Uniswap Labs Default",
+  "name": "Raptor Labs Default",
   "timestamp": "2025-03-15T17:16:58.677Z",
   "version": {
     "major": 0,
@@ -14,12 +14,28 @@
   ],
   "tokens": [
     {
-      "chainId": 586,
-      "address": "0xE44deCB14Cfc3C214E8F4AFF2FaD4cf707F2e6B8",
-      "name": "Wrapped MarketCapy",
-      "decimals": 18,
-      "symbol": "WCAPY",
-      "logoURI": "https://raw.githubusercontent.com/MarketCapy-Chain/Images/refs/heads/main/marketcapy.jpg"
-    }
+    "chainId": 1380996178,
+    "address": "0xeF7cADE66695f4cD8a535f7916fBF659936818C4",
+    "name": "Wrapped Raptor",
+    "decimals": 18,
+    "symbol": "WRPTR",
+    "logoURI": "https://raw.githubusercontent.com/MarketCapy-Chain/token-list/refs/heads/main/src/logos/0xeF7cADE66695f4cD8a535f7916fBF659936818C4.png"
+  },
+  {
+    "chainId": 1380996178,
+    "address": "0x8CAFF7Ba0e0f6A72f1c0EC48F7d6696A70E9B39D",
+    "name": "RaptoX",
+    "decimals": 18,
+    "symbol": "RPTX",
+    "logoURI": "https://raw.githubusercontent.com/MarketCapy-Chain/token-list/refs/heads/main/src/logos/0x8CAFF7Ba0e0f6A72f1c0EC48F7d6696A70E9B39D.png"
+  },
+  {
+    "chainId": 1380996178,
+    "address": "0x99D67b3cE345AF518F920209d7A6D30209d7575B",
+    "name": "Raptest",
+    "decimals": 18,
+    "symbol": "RPT",
+    "logoURI": "https://raw.githubusercontent.com/PopCatRock/token-list/refs/heads/master/src/tokens/mainnet.json"
+  }
   ]
 }
